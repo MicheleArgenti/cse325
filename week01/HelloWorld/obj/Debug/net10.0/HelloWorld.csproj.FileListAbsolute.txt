@@ -1,0 +1,15 @@
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\miche\Documents\Visual Studio Code\BYU-IDAHO\cse325\week01\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
